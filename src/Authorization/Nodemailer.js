@@ -6,8 +6,8 @@ const enviarMail = async (email) => {
     port: 465,
     secure: true,
     auth: {
-      user: 'pikamandu@gmail.com',
-      pass: '38941876luc',
+      user: 'backendparaalkemy',
+      pass: 'alkemy123',
     },
   });
 
